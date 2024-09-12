@@ -1,5 +1,4 @@
 // 3.a
-/*
 int a = 5;
 int b = 5;
 
@@ -10,21 +9,16 @@ else {
   println("Failure");
 }
 
-*/
-
-/*
-
 // 3.b
 int min = 15;
 int max = 3;
 
 if ((min + max > 10) && (min <= 5 || max <= 5)) {
-    println("Success!");
+  println("Success!");
 }
   else {
     print("Failure!");
 }
-*/
 
 // 3.c
 int x = 9; 

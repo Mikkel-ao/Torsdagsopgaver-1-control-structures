@@ -1,6 +1,6 @@
 // 1.a
 String month = "january";
-
+// 1.b
 switch(month) {
   case "january":
     println(month + ": 31 days");
